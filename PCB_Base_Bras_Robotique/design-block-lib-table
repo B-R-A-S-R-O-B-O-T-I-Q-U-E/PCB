@@ -4,4 +4,5 @@
 	(lib (name "MCP2518FDT-E_SL") (type "KiCad") (uri "${KIPRJMOD}/MCP2518FDT-E_SL") (options "") (descr ""))
 	(lib (name "footprints.pretty") (type "KiCad") (uri "${KIPRJMOD}/MCP2518FDT-E_SL/footprints.pretty") (options "") (descr ""))
 	(lib (name "TCAN3413DR") (type "KiCad") (uri "${KIPRJMOD}/TCAN3413DR") (options "") (descr ""))
+	(lib (name "XT30PW_2_2_-M.G.B") (type "KiCad") (uri "${KIPRJMOD}/XT30PW_2_2_-M.G.B") (options "") (descr ""))
 )
